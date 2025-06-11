@@ -21,7 +21,7 @@ graph TD
     E --> E2[Dirección de Producción Vegetal]
     
     B --> F[Sedes Territoriales]
-    F --> F1[Barinas (Rectoral)]  
+    F --> F1[Barinas (Rectoral)]
     F --> F2[Guanare]
     F --> F3[San Carlos]
     F --> F4[Guasdualito]
